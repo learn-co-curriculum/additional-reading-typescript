@@ -27,7 +27,7 @@ there are also many free tutorials available online.
 ## Resources
 
 - [TypeScript][]
-- [TypeScript Documentation][]
+- [TypeScript Documentation][typescript doc]
 - [Introduction to TypeScript][]
 - [TypeScript Deep Dive][]
 
